@@ -1,8 +1,9 @@
 <script setup lang="ts">
 import TheNavbar from "./components/TheNavbar.vue";
+import HeroSection from "./components/HeroSection.vue";
 </script>
 
 <template>
   <TheNavbar />
-  <RouterView></RouterView>
+  <HeroSection />
 </template>
