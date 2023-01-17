@@ -16,7 +16,7 @@
       <!-- Button -->
       <a
         href="#"
-        class="hidden md:block p-3 px-6 text-white bg-red-600 rounded-full baseline hover:bg-red-400"
+        class="hidden md:block p-3 px-6 text-white bg-orange-600 rounded-full baseline hover:bg-red-400"
         >Get Started</a
       >
     </div>
